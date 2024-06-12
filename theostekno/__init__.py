@@ -1,1 +1,1 @@
-
+from .theostekno import randomnum
