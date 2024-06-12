@@ -1,1 +1,1 @@
-import theos
+import theostekno
